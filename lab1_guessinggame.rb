@@ -1,4 +1,3 @@
-# Program creates a random number and then iterates on a user guessing for that number
 num = rand(100)
 
 guess_count = 1
