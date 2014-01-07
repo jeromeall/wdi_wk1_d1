@@ -19,4 +19,4 @@ until guess == num
 
 end
 
-puts "#{guess} is the correct number!  Lebron sucks donkey dick.  You got it in #{guess_count} tries."
+puts "#{guess} is the correct number!  Elaine is the most beautiful girl in the world.  You got it in #{guess_count} tries."
