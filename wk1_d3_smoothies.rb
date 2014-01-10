@@ -61,7 +61,7 @@ class Blender
 					if power == "OFF"
 						puts "Thanks for being safe."
 					else 
-						puts "Please turn the Blender OFF!!!".upcase
+						puts "Please turn the Blender OFF!!!"
 					end
 				end
 			elsif power == "NO"
